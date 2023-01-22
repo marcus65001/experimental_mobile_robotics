@@ -1,6 +1,6 @@
 [submodule "lab1/duckie-rh2"]
-	path = lab1/duckie-rh2
+	path = exercise1/duckie-rh2
 	url = https://github.com/marcus65001/duckie-rh2
 [submodule "lab1/duckie_color_det"]
-	path = lab1/duckie_color_det
+	path = exercise1/duckie_color_det
 	url = https://github.com/marcus65001/duckie_color_det
