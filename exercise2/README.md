@@ -1,6 +1,6 @@
 # CMPUT 412 Exercise 2
 
-This is the repository for all CMPUT 412 exercises. Code for each exercise will be under their respective subfolders.
+This is the folder for CMPUT 412 Exercise 2. Code for each part will be under their respective subfolders.
 
 ## Subfolders
 
