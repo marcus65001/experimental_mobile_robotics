@@ -10,3 +10,6 @@
 [submodule "exercise2/412e2p2"]
 	path = exercise2/412e2p2
 	url = https://github.com/marcus65001/412e2p2
+[submodule "exercise3"]
+	path = exercise3
+	url = https://github.com/marcus65001/c412e3
