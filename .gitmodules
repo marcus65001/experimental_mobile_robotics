@@ -13,3 +13,6 @@
 [submodule "exercise3"]
 	path = exercise3
 	url = https://github.com/marcus65001/c412e3
+[submodule "exercise4"]
+	path = exercise4
+	url = https://github.com/marcus65001/c412e4
