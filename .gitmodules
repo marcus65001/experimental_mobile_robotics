@@ -16,3 +16,14 @@
 [submodule "exercise4"]
 	path = exercise4
 	url = https://github.com/marcus65001/c412e4
+[submodule "exercise5/main"]
+	path = exercise5/main
+	url = https://github.com/marcus65001/c412e5
+	branch = main
+[submodule "exercise5/inference"]
+	path = exercise5/inference
+	url = https://github.com/marcus65001/c412e5
+	branch = marcus-inference
+[submodule "exercise5/utils"]
+	path = exercise5/utils
+	url = https://github.com/marcus65001/c412e5_utils
