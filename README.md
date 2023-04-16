@@ -9,6 +9,7 @@ This is the repository for all CMPUT 412 exercises. Code for each exercise will 
 * [Exercise 3](https://github.com/marcus65001/c412e3/tree/16628e3a7c974ad8647aa9050c7802ad673ee220) - Computer Vision & Sensor Fusion
 * [Exercise 4](https://github.com/marcus65001/c412e4/tree/efb6dade55bb266538e43b14955b83e521c33c62) - Don’t Crash! Tailing Behaviour
 * [Exercise 5](https://github.com/marcus65001/cmput412/tree/main/exercise5) - ML for Robotics
+* [Final Project](https://github.com/marcus65001/cmput412/tree/main/exercise5) - Final Project
 
 ## License
 
