@@ -27,3 +27,6 @@
 [submodule "exercise5/utils"]
 	path = exercise5/utils
 	url = https://github.com/marcus65001/c412e5_utils
+[submodule "final"]
+	path = final
+	url = https://github.com/marcus65001/c412_final
