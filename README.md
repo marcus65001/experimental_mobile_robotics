@@ -1,6 +1,6 @@
-# CMPUT 412 Repository
+# Experimental Mobile Robotics
 
-This is the repository for all CMPUT 412 exercises. Code for each exercise will be under their respective subfolders.
+This is the repository for all experimental mobile robotics exercises. Code for each exercise will be under their respective subfolders.
 
 ## Exercises
 
